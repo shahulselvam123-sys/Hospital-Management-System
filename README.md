@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No: 212225230175
-# Name: Mohamed Hafees R
+# Reg No: 212225230222
+# Name: Ragul s
 # Date: 24-11-2026
 
 
